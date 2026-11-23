@@ -1,0 +1,61 @@
+# AI Search & Assistant Crawlers
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Disallow: /404
+Disallow: /404.html
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&ref&fbclid&gclid&yclid
+
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /404.html
+
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+Sitemap: https://swaya.xyz/sitemap-index.xml
+Sitemap: https://swaya.xyz/sitemap.xml

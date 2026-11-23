@@ -1,0 +1,44 @@
+# Swaya
+
+> Ditch messy folders. Swaya turns your porn videos and photo galleries into a fast, private Windows 10/11 library with built-in player and instant F10 hide. Organize local videos, photo galleries, and favorite stars in a fast Windows 10/11 desktop app with built-in HD/4K player, 1-click undo sorting, and instant F10 panic hide.
+
+Swaya is a Windows 10 and Windows 11 (64-bit) desktop application built by Swaya Media. Your videos, photo galleries, favorite lists, finish history, and personal stats stay private on your own PC and work offline. Internet access is used for license activation, updates, streaming scene trailers, loading online catalog covers, and the optional Friends feature.
+
+- Full Documentation & Comparison Reference: https://swaya.xyz/llms-full.txt
+
+## Core Capabilities
+- **Every Star & Release in One Place**: Loved a scene and forgot who was in it? Follow your favorite stars and see all their studios, co-stars, and releases in one clean view, with no endless hunting across ten websites.
+- **Turn Messy Downloads Into a Clean Library**: Drop in a folder full of cryptic filenames. Swaya recognizes scenes automatically, pulls clean covers, and tidies your folders for you, and if you change your mind, 1 click puts everything back.
+- **Smooth Player & Photo Galleries**: Watch almost any video smoothly without fighting codecs or cluttered browser windows. Keep a floating mini-player open while browsing, flip through photo albums, or pull media & full albums straight from Reddit, RedGIFs, Coomer, Bunkr, and 25+ sites without duplicates.
+- **Finish Tracker (O-Count) & Panic Hide**: Log every finish with 1 click during playback, saving the timestamp, snapshot, and stats so you actually know which stars, studios, and scenes are your all-time top picks. Someone knocks? Hit F10 to mute and swap to a harmless screen, or press 'B' to blur everything.
+- **Private Friends Mode**: Swap favorite stars and stats via private Friend Code, or leave it switched off completely. No public profiles, user search, or directory, even when enabled; Invite-only with your personal Friend Code; You choose what to share (favorite stars, stats); Your videos and history never leave your PC.
+
+## Fit & Compatibility Summary
+- **Built for**: Windows 10 / 11 (64-bit) desktop users organizing local adult videos and photo galleries with native playback, automatic scene matching, and instant F10 panic hide.
+- **Not built for**: macOS, Linux, Docker, iOS/Android, freeware seekers (paid Patreon or Founding Lifetime Pass only), or users under 18.
+
+## Pricing & Licensing
+Swaya is a paid-only Windows application billed discreetly via Patreon (Discreet Patreon charge on your bank statement (never the app name); Cancel anytime on Patreon in 1 click, no lock-in):
+- **Member (€8 / month)**: Everything required to turn cluttered folders into a fast, private media library. (Full unrestricted access to the Swaya Windows app; All future updates & improvements included; Discord Member access & community support; Use on up to 3 of your own Windows PCs)
+- **VIP (€15 / month)**: Help steer where Swaya goes next and try new releases before anyone else. (Everything in Member; Early pre-test builds before public launch; Propose new color themes & stealth decoy screens; Sneak peeks inside private VIP Discord lounge; Optional supporter credit inside the About page)
+- **Executive (€25 / month)**: For supporters who want their own custom look built in and first priority on ideas. (Everything in VIP; Direct line to the developer, so your ideas get reviewed first; Your own custom color palette built straight into the app; Featured supporter credit (opt-in) & Executive VIP role; Priority influence on upcoming workflow features)
+- **SWAYA Lifetime Pass (€97 one-time payment, FOUNDING EDITION · ONLY 50 SPOTS)**: Hate seeing monthly subscriptions on your statement? Pay once and own Swaya forever on up to 3 PCs with all future updates included. Personal license key sent fast via Patreon DM (usually right away, at most a few hours).
+
+## System Requirements (Windows 64-bit)
+- **Minimum**: Windows 10 / 11 (64-bit), 64-bit dual-core CPU, 4 GB RAM, 20 GB free disk space, DirectX 11 compatible GPU.
+- **Recommended**: Windows 10 / 11 (64-bit), Modern quad-core CPU, 8 GB+ RAM, 25+ GB free space (SSD recommended), Dedicated GPU with hardware video decoding.
+
+## Official Links & Languages
+- Website: https://swaya.xyz/
+- Full LLM Reference: https://swaya.xyz/llms-full.txt
+- Stash Alternative Comparison: https://swaya.xyz/stash-alternative/
+- Release Changelog (v1.1.17): https://swaya.xyz/changelog/
+- Changelog RSS Feed: https://swaya.xyz/rss.xml
+- FAQ & Compatibility Guide: https://swaya.xyz/faq/
+- Privacy Policy: https://swaya.xyz/privacy/
+- Terms of Service: https://swaya.xyz/terms/
+- Support Email: support@swaya.xyz
+- Discord Community: https://discord.gg/pEFY4ZFGKy
+- Reddit Community: https://www.reddit.com/r/SwayaMedia/
+- Windows Installer (v1.1.17, 489 MB, SHA-256 `F51B7008D4AECAC5A0AA97C8CBEF6D47FF9642F6D4575DCEDF8725D0676C55A3`): https://data.swaya.xyz/swaya-setup.exe
+- Supported Languages: English (`https://swaya.xyz/`), Hungarian (`https://swaya.xyz/hu/`), German (`https://swaya.xyz/de/`), French (`https://swaya.xyz/fr/`), Spanish (`https://swaya.xyz/es/`), Italian (`https://swaya.xyz/it/`), Chinese (`https://swaya.xyz/zh/`), Korean (`https://swaya.xyz/ko/`), Russian (`https://swaya.xyz/ru/`), Japanese (`https://swaya.xyz/ja/`), Portuguese (`https://swaya.xyz/pt/`), Polish (`https://swaya.xyz/pl/`).

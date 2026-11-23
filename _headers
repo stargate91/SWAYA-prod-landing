@@ -1,0 +1,72 @@
+/*
+  Cache-Control: public, max-age=0, must-revalidate
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Cross-Origin-Opener-Policy: same-origin
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-czWyJtT9IxMTKhSB4JXjY7gJBXyuhP9Wzq0meB0+Ayg='; style-src 'self'; img-src 'self' data: https:; media-src 'self' https://data.swaya.xyz; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; upgrade-insecure-requests
+
+/404.html
+  X-Robots-Tag: noindex, follow
+
+/5d8e9a4c2b7f1e6093a4d8c1f2b5e704.txt
+  X-Robots-Tag: noindex, nofollow
+
+/llms.txt
+  Cache-Control: public, max-age=3600
+  Content-Type: text/markdown; charset=utf-8
+  Link: <https://swaya.xyz/llms.txt>; rel="canonical"
+
+/llms-full.txt
+  Cache-Control: public, max-age=3600
+  Content-Type: text/markdown; charset=utf-8
+  Link: <https://swaya.xyz/llms-full.txt>; rel="canonical"
+
+/sitemap-index.xml
+  Cache-Control: public, max-age=3600
+
+/sitemap-0.xml
+  Cache-Control: public, max-age=3600
+
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+
+/rss.xml
+  Cache-Control: public, max-age=3600
+  Content-Type: application/rss+xml; charset=utf-8
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/flags/*
+  Cache-Control: public, max-age=2592000
+
+/screenshots/*
+  Cache-Control: public, max-age=2592000
+
+/videos/*
+  Cache-Control: public, max-age=2592000
+
+/og-banner.jpg
+  Cache-Control: public, max-age=2592000
+
+/icon.png
+  Cache-Control: public, max-age=2592000
+
+/favicon.png
+  Cache-Control: public, max-age=2592000
+
+/favicon.ico
+  Cache-Control: public, max-age=2592000
+
+/favicon.svg
+  Cache-Control: public, max-age=2592000
+
+/*.webp
+  Cache-Control: public, max-age=2592000
+

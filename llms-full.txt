@@ -1,0 +1,188 @@
+# Swaya (Windows Desktop App) - Complete Product Reference
+
+> Ditch messy folders. Swaya turns your porn videos and photo galleries into a fast, private Windows 10/11 library with built-in player and instant F10 hide. Organize local videos, photo galleries, and favorite stars in a fast Windows 10/11 desktop app with built-in HD/4K player, 1-click undo sorting, and instant F10 panic hide.
+
+- Official Website: https://swaya.xyz/
+- Latest Release: v1.1.17 (2026-11-23, Windows 64-bit installer, 489 MB)
+- Direct Installer URL: https://data.swaya.xyz/swaya-setup.exe
+- Installer SHA-256: `F51B7008D4AECAC5A0AA97C8CBEF6D47FF9642F6D4575DCEDF8725D0676C55A3`
+- Support Contact: support@swaya.xyz
+- Community (Discord): https://discord.gg/pEFY4ZFGKy
+- Community (Reddit): https://www.reddit.com/r/SwayaMedia/
+- Changelog RSS: https://swaya.xyz/rss.xml
+
+## Who Swaya Is For & Who It Is NOT For
+### Who Swaya Is For
+- Windows 10 / 11 (64-bit) desktop users who keep local adult video collections and photo galleries on their PC and want a native app instead of a browser server.
+- Users looking for automatic scene matching, batch folder organization with 1-click undo, performer filmographies/aliases, Finish (O-Count) tracking, and instant F10 panic hide / 'B' blur discretion.
+- Users who want a URL importer for Reddit, RedGIFs, Coomer, Bunkr, and 25+ supported sites with duplicate detection.
+
+### Who Swaya Is NOT For
+- **Non-Windows users**: Swaya is a native Windows 10/11 (64-bit) desktop application only, so there is no macOS, Linux, Docker, iOS, or Android client.
+- **Freeware / open-source seekers**: Swaya is proprietary paid software (no free tier; requires an active Patreon membership starting at €8/month or a one-time €97 Founding Lifetime Pass).
+- **Users under 18**: You must be at least 18 years old (or the age of majority in your jurisdiction) to purchase or use Swaya.
+- **Cloud-streaming-only / mobile-sync users**: Local videos, photo galleries, favorites, and viewing/finish history stay on your Windows PC and are not uploaded to cloud storage.
+
+## Core Value Proposition
+- **True Desktop App**: Install & open, zero local server setup
+- **1-Key Panic Hide**: F10 mutes & hides in a split second
+- **Chaos to Order**: Messy downloads matched & sorted fast
+- **Yours on Your PC**: Private files never leave your drive
+
+## Detailed Feature Breakdown
+
+### 1. Every Star & Release in One Place
+Loved a scene and forgot who was in it? Follow your favorite stars and see all their studios, co-stars, and releases in one clean view, with no endless hunting across ten websites.
+- Follow favorite stars with aliases, co-stars & full catalogs
+- Covers mainstream studios, OnlyFans, JAV & PMVs seamlessly
+
+### 2. Turn Messy Downloads Into a Clean Library
+Drop in a folder full of cryptic filenames. Swaya recognizes scenes automatically, pulls clean covers, and tidies your folders for you, and if you change your mind, 1 click puts everything back.
+- Matches messy filenames to real titles & covers in seconds
+- Clean folder sorting with zero stress & 1-click full undo
+
+### 3. Smooth Player & Photo Galleries
+Watch almost any video smoothly without fighting codecs or cluttered browser windows. Keep a floating mini-player open while browsing, flip through photo albums, or pull media & full albums straight from Reddit, RedGIFs, Coomer, Bunkr, and 25+ sites without duplicates.
+- Smooth HD/4K playback & floating Picture-in-Picture window
+- Photo galleries + URL importer (Reddit, RedGIFs, Coomer, Bunkr & 25+ sites)
+
+### 4. Finish Tracker (O-Count) & Panic Hide
+Log every finish with 1 click during playback, saving the timestamp, snapshot, and stats so you actually know which stars, studios, and scenes are your all-time top picks. Someone knocks? Hit F10 to mute and swap to a harmless screen, or press 'B' to blur everything.
+- 1-click Finish (O-Count) log with snapshots & personal top stats
+- F10 instant panic hide & mute + 'B' quick SFW blur
+
+### 5. Private Friends Mode (Optional)
+Swap favorite stars and stats via private Friend Code, or leave it switched off completely.
+- No public profiles, user search, or directory, even when enabled
+- Invite-only with your personal Friend Code
+- You choose what to share (favorite stars, stats)
+- Your videos and history never leave your PC
+
+## Swaya vs. Stash: A Native Windows App Instead of Browser Tools
+Full page: https://swaya.xyz/stash-alternative/
+
+| Feature | Swaya (Windows App) | Stash / Self-Hosted Browser Tools |
+| --- | --- | --- |
+| Setup | Normal Windows installer, open and start right away | Requires setting up a local server or browser localhost |
+| Video Playback | Smooth built-in player for any video + floating mini-player (PiP) | Limited by browser playback; some files won't play smoothly |
+| Catalog & Covers | Ready-to-use catalog (studios, OnlyFans, JAV, PMVs) | Often requires manual plugins and extra setup |
+| File Tidying | Batch rename & folder sorting with 1-click undo | Depends on add-ons or manual scripts |
+| Quick Privacy | F10 instant hide screen & mute + 'B' quick blur | Runs in a regular browser window |
+| Photo Galleries | Built-in photo galleries + album link importer & duplicate check | Built-in web gallery support (external tools needed to download albums) |
+
+### Choose Swaya if you want a native Windows 10/11 desktop app
+- You want a normal Windows .exe installer that opens and plays any video (MP4, MKV, 4K HEVC) right away with a floating PiP mini-player, zero localhost server or port setup.
+- You want ready-to-use scene matching, star filmographies, and 1-click undo folder sorting out of the box without configuring Stash-box endpoints, community scrapers, or scripts.
+- You value instant desktop privacy (F10 panic mute & decoy screen, B quick blur, PIN lock) and a built-in link importer for Reddit, RedGIFs, Coomer, Bunkr, and 25+ sites.
+
+### Choose Stash if you need a self-hosted cross-platform server
+- You run your media library on Linux, macOS, Docker, Unraid, or a headless NAS server and want to stream it across multiple devices in a web browser.
+- You prefer a free, open-source self-hosted project and enjoy customizing GraphQL plugins, community scrapers, and manual tagging workflows.
+- You do not need a native Windows video player, 1-key desktop camouflage, or a built-in multi-site gallery downloader.
+
+### 1. Zero Localhost Server vs. Browser Tab Management
+Stash runs as a local background web server accessed through your regular browser on localhost. Swaya is a dedicated Windows 10/11 desktop application: install it in seconds, keep your adult collection separate from your daily web browser, and launch straight into a fast native interface.
+
+### 2. Built-In Catalog & 1-Click Undo vs. Manual Scrapers
+Instead of hunting for scraper plugins and configuring external metadata boxes, Swaya includes a ready-to-use catalog covering mainstream studios, OnlyFans, JAV, and PMVs. Drop in a messy folder to preview clean matches, organize files in one click, and roll back any batch anytime with 1-click undo.
+
+### 3. Native Player, 25+ Site Link Importer & F10 Discretion
+Browser video players often struggle with MKV containers, high-bitrate 4K HEVC, or audio codecs. Swaya pairs a smooth built-in desktop player and floating mini-player with an all-media link grabber (Reddit, RedGIFs, Coomer, Bunkr & 25+ sites), Finish (O-Count) tracking, and OS-level F10 panic hide.
+
+## Pricing, Licensing & Refund Policy
+Swaya is a paid-only Windows application billed via Patreon (Discreet Patreon charge on your bank statement (never the app name); Cancel anytime on Patreon in 1 click, no lock-in; Active Windows updates & direct Discord support).
+
+- **Member (€8 / month, Recommended)**:
+  - Full unrestricted access to the Swaya Windows app
+  - All future updates & improvements included
+  - Discord Member access & community support
+  - Use on up to 3 of your own Windows PCs
+- **VIP (€15 / month, Supporter Edition)**:
+  - Everything in Member
+  - Early pre-test builds before public launch
+  - Propose new color themes & stealth decoy screens
+  - Sneak peeks inside private VIP Discord lounge
+  - Optional supporter credit inside the About page
+- **Executive (€25 / month, Signature Edition)**:
+  - Everything in VIP
+  - Direct line to the developer, so your ideas get reviewed first
+  - Your own custom color palette built straight into the app
+  - Featured supporter credit (opt-in) & Executive VIP role
+  - Priority influence on upcoming workflow features
+- **SWAYA Lifetime Pass (€97 one-time payment, FOUNDING EDITION · ONLY 50 SPOTS)**:
+  - Hate seeing monthly subscriptions on your statement? Pay once and own Swaya forever on up to 3 PCs with all future updates included.
+  - Purchased via Patreon Shop (`https://www.patreon.com/checkout/SWAYA?pvid=5853917`)
+  - Personal license key sent fast via Patreon DM (usually right away, at most a few hours)
+
+### Billing & Refund Policy (Terms Section 3)
+Full Terms: https://swaya.xyz/terms/
+- All memberships and Founding Lifetime Pass purchases are billed through Patreon under Patreon's checkout terms. Founding Lifetime Pass license keys are delivered via Patreon DM shortly after purchase (usually promptly, within a few hours at most).
+- Because Swaya is digital software granting immediate access to downloadable software, catalog data, or a unique license key, payments are generally non-refundable once your license or account has been activated or used (including for change of mind, forgotten subscription renewals, or PCs below the published system requirements). Exceptions apply within 7 days of purchase only if: (1) a Founding Lifetime Pass key has never been activated on any device, (2) you experience a reproducible, verified technical issue preventing Swaya from running on a PC meeting published Windows 10/11 (64-bit) requirements that our support team (support@swaya.xyz or Discord) is unable to resolve, or (3) a verified duplicate billing error occurs or mandatory local law requires a refund.
+- Patreon memberships renew automatically until you cancel them in your Patreon settings prior to the next billing date. Initiating a chargeback or receiving a refund immediately and permanently revokes your Swaya license, active devices, and community access.
+
+## System Requirements (Windows 10 / 11 64-bit)
+- **Minimum**: Windows 10 / 11 (64-bit), 64-bit dual-core CPU, 4 GB RAM, 20 GB free disk space, DirectX 11 compatible GPU.
+- **Recommended**: Windows 10 / 11 (64-bit), Modern quad-core CPU, 8 GB+ RAM, 25+ GB free space (SSD recommended), Dedicated GPU with hardware video decoding.
+
+## Installer Security & Privacy Verification
+- **Installer File**: `swaya-setup.exe` (NSIS Windows 64-bit installer, v1.1.17, 489 MB / 512907297 bytes)
+- **Download URL**: https://data.swaya.xyz/swaya-setup.exe
+- **SHA-256 Checksum**: `F51B7008D4AECAC5A0AA97C8CBEF6D47FF9642F6D4575DCEDF8725D0676C55A3`
+- **Local-First Architecture**: Local video files, photo galleries, favorite lists, finish history, and personal stats stay directly on the user's Windows drive and are never uploaded or sold.
+- **When Outbound Requests Occur**: Only for license key/Patreon activation, app updates, streaming scene trailers, fetching online catalog cover images, or using the optional invite-only Friends feature.
+- **Website Tracking**: `swaya.xyz` is a static website with zero analytics trackers and zero advertising cookies; only `localStorage` (`swaya_web_locale`) is used if a user selects a language.
+
+## SFW Walkthrough Video Transcript (01:14)
+- Video URL: https://swaya.xyz/videos/swaya-promo-sfw.mp4
+- Captions (WebVTT): https://swaya.xyz/videos/swaya-promo-sfw.vtt
+
+- `00:00` **Intro: Your Private Collection, Kept Discreet**: SWAYA - Your private collection, kept discreet.
+- `00:03` **Discovery: Explore the Catalog**: Mainstream features, independent clips, JAV, and PMVs, ready to explore.
+- `00:08` **Search: Find Anything Instantly**: Jump straight to any scene, star, studio, or mood.
+- `00:15` **Star Profiles & Spotlight**: Signature scenes, aliases, filmographies, and Star Spotlight in one view.
+- `00:21` **Instant Discretion: Blur (B) & F10 Panic Hide**: Lower the Discreet Veil with B. Switch to Cinema Catalog with F10.
+- `00:27` **Import Media: Effortless Organization & 1-Click Undo**: Drop files or folders to match stars, studios, and scenes automatically, with full 1-click batch undo.
+- `00:44` **Library: Browse Shelves & Watch Trailers**: Browse your shelves, watch trailers, and slip straight back into a scene.
+- `00:51` **Downloads: Links, Streams & Photo Galleries**: Save web videos, streams, and photo sets straight into your library.
+- `00:57` **History, Finishes & Personal Rankings**: Revisit what lingered and track your personal finishes and top rankings.
+- `01:05` **Statistics & Taste Profile**: Library scale, runtime, and a Taste Profile shaped by your shelves.
+
+## Frequently Asked Questions
+- **Do I need an internet connection to use Swaya?**
+  Your videos, photo galleries, favorite lists, finish history, and personal stats all stay private on your Windows PC and work offline. You only need internet to activate your license, get updates, stream trailers, load online cover images, or use the Friends feature.
+- **How is Swaya different from browser tools like Stash?**
+  Swaya is a real Windows desktop app: just install and open it, with no local server setup or browser window needed. It comes with a ready-to-use catalog, automatic scene matching with 1-click undo, a floating mini-player (PiP), photo galleries, instant F10 hide mode, and much more.
+- **How do Patreon membership and the Founding Lifetime Pass work?**
+  Swaya is a paid Windows app. Joining on Patreon (Member €8/mo, VIP €15/mo, or Executive €25/mo) unlocks full access, updates, and up to 3 PCs. The Founding Lifetime Pass (€97 once, limited to 50) gives you lifetime access and updates on up to 3 PCs, with your license key sent via Patreon DM shortly after purchase (usually right away, within a few hours at most).
+- **How do the F10 hide mode and 'B' blur work?**
+  Pressing F10 instantly mutes sound and switches to a clean decoy screen. Pressing 'B' adds a soft blur while you browse.
+- **Which video and photo file formats and codecs does Swaya support?**
+  Swaya plays virtually all common video formats natively, including MP4, MKV, WebM, MOV, AVI, WMV, FLV, and M4V, with hardware-accelerated decoding for H.264, HEVC (H.265), AV1, and VP9 up to 4K/60fps, plus a floating Picture-in-Picture (PiP) mini-player. For photo galleries, Swaya supports JPG/JPEG, PNG, WebP, GIF, and AVIF.
+- **How does automatic file organization work, and is 1-click undo safe for my files?**
+  When you drop a folder of messy filenames into the Organizer, Swaya shows a full preview of matched titles, stars, studios, and covers before changing anything on your drive. Applying a batch renames and sorts files cleanly, and every batch is logged so you can revert your files back to their exact original names and folders in 1 click.
+- **Which websites work with the built-in Link Importer?**
+  The built-in Link Grabber imports direct videos, streams, and multi-page photo/video galleries from Reddit, RedGIFs, Coomer, Bunkr, Lmlib, and 25+ supported sites directly into your local library, complete with automatic duplicate detection and gallery merging.
+- **What types of content does the catalog recognize (Studios, OnlyFans, JAV, PMVs)?**
+  Swaya covers mainstream adult studios, independent/OnlyFans creators, JAV releases (by code or performer), and PMVs. Each star profile connects aliases, co-stars, studio appearances, and full filmographies. You can also add custom tags, covers, and notes to any personal or unmatched clip.
+- **How do PIN lock, auto-camouflage, and the optional Friends mode protect my privacy?**
+  Alongside the F10 instant mute & decoy screen and the B quick blur key, you can lock Swaya with a 4–6 digit PIN and enable automatic camouflage when you step away from your desk. Friends mode is turned off by default, has no public directory, works only via private Friend Code, and never uploads your local videos or watch history.
+- **Will Swaya run smoothly on my Windows PC?**
+  Yes, if you have 64-bit Windows 10 or 11, a dual-core processor, 4 GB RAM, and 20 GB free disk space. For large libraries and 4K HEVC playback, a modern quad-core CPU, 8 GB+ RAM, and an SSD are recommended. Swaya is built exclusively for Windows 10/11 (no macOS, Linux, or mobile app).
+- **How many PCs can I use with one license, and can I move it to a new computer?**
+  Every Patreon plan (Member, VIP, Executive) and the Founding Lifetime Pass lets you activate Swaya on up to 3 of your own Windows PCs at the same time, and you can manage or transfer activations if you upgrade your hardware.
+- **How discreet is Patreon billing, and how do updates or cancellations work?**
+  All charges are processed by Patreon, so your bank statement only shows Patreon, never the app name or adult keywords. Monthly plans can be canceled anytime on Patreon in 1 click with no lock-in, and new Windows app updates are delivered straight through the built-in updater.
+
+## Localized Editions (12 Languages)
+- English (`en`): https://swaya.xyz/
+- Hungarian (`hu`): https://swaya.xyz/hu/
+- German (`de`): https://swaya.xyz/de/
+- French (`fr`): https://swaya.xyz/fr/
+- Spanish (`es`): https://swaya.xyz/es/
+- Italian (`it`): https://swaya.xyz/it/
+- Chinese (`zh-Hans`): https://swaya.xyz/zh/
+- Korean (`ko`): https://swaya.xyz/ko/
+- Russian (`ru`): https://swaya.xyz/ru/
+- Japanese (`ja`): https://swaya.xyz/ja/
+- Portuguese (`pt`): https://swaya.xyz/pt/
+- Polish (`pl`): https://swaya.xyz/pl/

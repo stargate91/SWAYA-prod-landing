@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swaya Changelog &amp; Releases</title>
+    <link>https://swaya.xyz/changelog/</link>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.17): media organizer, link importer, and player updates.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swaya v1.1.17 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.17</link>
+      <guid isPermaLink="false">swaya-release-1.1.17</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Unified titlebar toolbar button styling and icon alignment across SFW blur, Link Grabber, and Cinema Catalog camouflage toggles</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.16 (Stability Patch)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.16</link>
+      <guid isPermaLink="false">swaya-release-1.1.16</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Action locking across scene cards, modals, downloads, settings, and forms to prevent accidental duplicate submissions
+• Refactored Electron and backend path configuration resolution, tray/player lifecycle, and updater error reporting
+• Stability improvements and codebase cleanup across catalog sync, file organizer, and UI hooks</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.15 (Major Patch)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.15</link>
+      <guid isPermaLink="false">swaya-release-1.1.15</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Link Grabber All Media unified photo + video import with a spacious two-column modal layout
+• Background All Pages crawler for Coomer, Bunkr, and Lmlib with gallery merging, deduplication, and Cancel support
+• Gallery duplicate detection with 1-click switch, Ctrl+Enter submit shortcuts, and 12-language localization</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.10 (Installer &amp; Fixes)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.10</link>
+      <guid isPermaLink="false">swaya-release-1.1.10</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Improved catalog scroll restoration, remote trailer reliability, and updater restart handling
+• Expanded 12-language UI translations and visual polish across detail pages and filters</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.0 (Initial Release)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.0</link>
+      <guid isPermaLink="false">swaya-release-1.1.0</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <description>• Initial Windows 10/11 desktop release with offline multi-provider catalog, smooth built-in player, and floating Picture-in-Picture
+• Automatic scene matching, batch file renaming with 1-click undo, F10 Camouflage mode, and &apos;B&apos; soft blur</description>
+    </item>
+  </channel>
+</rss>
