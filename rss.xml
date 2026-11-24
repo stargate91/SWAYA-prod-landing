@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.19): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.22): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.19 (Latest)</title>
+      <title>Swaya v1.1.22 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.22</link>
+      <guid isPermaLink="false">swaya-release-1.1.22</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Three-mode gallery deletion (Remove from Library, Dissolve Album Only, or Recycle Bin / Permanent Delete) and explicit Library vs. Recycle Bin / disk photo deletion prompts across Lightbox and batch actions (for both managed and in-place files)
+• Scene detail hero showcase card with ambient blur framing for portrait and low-res covers, smoother poster card decoding, Cinema Catalog (F10) shortcut hint, and streamlined Library &amp; Organizer controls
+• Cross-window Electron IPC query cache synchronization, optimistic UI updates with automatic rollback, and scoped cache invalidation for faster, flicker-free responsiveness</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.19 (Media &amp; Playback)</title>
       <link>https://swaya.xyz/changelog/#v1.1.19</link>
       <guid isPermaLink="false">swaya-release-1.1.19</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
