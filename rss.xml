@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.17): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.18): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.17 (Latest)</title>
+      <title>Swaya v1.1.18 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.18</link>
+      <guid isPermaLink="false">swaya-release-1.1.18</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Intercept rate-limited FansDB placeholder SVGs in Electron to prevent 24h cache poisoning, and retry transient card thumbnail loads with per-host concurrency limits
+• Keep local backend API queries and mutations active when offline using networkMode always
+• Modularized Link Grabber crawlers and ingestors, Gallery imports, Social sync, trailer proxy, and chunked Organizer batch preloading, plus fixed a tasks circular import</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.17 (UI &amp; Fixes)</title>
       <link>https://swaya.xyz/changelog/#v1.1.17</link>
       <guid isPermaLink="false">swaya-release-1.1.17</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
