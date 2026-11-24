@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.18): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.19): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.18 (Latest)</title>
+      <title>Swaya v1.1.19 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.19</link>
+      <guid isPermaLink="false">swaya-release-1.1.19</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Prune deleted upstream artworks during catalog delta sync while preserving custom uploads and local caches, and auto-heal confirmed 404/410 remote images in the UI
+• Faster local MPV playback startup with parallelized launch initialization, adaptive IPC polling, and single-seek resume
+• Classify static RedGIFs images, multi-photo RedGIFs galleries, and Reddit media viewer links as photos instead of videos</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.18 (Core &amp; Offline)</title>
       <link>https://swaya.xyz/changelog/#v1.1.18</link>
       <guid isPermaLink="false">swaya-release-1.1.18</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
