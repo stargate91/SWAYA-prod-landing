@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.22): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.23): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.22 (Latest)</title>
+      <title>Swaya v1.1.23 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.23</link>
+      <guid isPermaLink="false">swaya-release-1.1.23</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Unified overlay layer stack and top-most dismissal ordering across modals, drawers, Lightbox (with FocusScope), dropdowns, split buttons, context menus, popovers, and tooltips
+• Cleaner player end-overlay state synchronization and layout-shift-free action button sizing in Organizer history cards alongside UI focus and theme refinements
+• Backend type-safety, FastAPI dependency, and linter hardening across artwork reconciliation, gallery endpoints, database maintenance, and link grabber services</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.22 (Deletion UX &amp; Cache)</title>
       <link>https://swaya.xyz/changelog/#v1.1.22</link>
       <guid isPermaLink="false">swaya-release-1.1.22</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>

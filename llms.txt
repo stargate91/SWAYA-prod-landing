@@ -32,7 +32,7 @@ Swaya is a paid-only Windows application billed discreetly via Patreon (Discreet
 - Website: https://swaya.xyz/
 - Full LLM Reference: https://swaya.xyz/llms-full.txt
 - Stash Alternative Comparison: https://swaya.xyz/stash-alternative/
-- Release Changelog (v1.1.22): https://swaya.xyz/changelog/
+- Release Changelog (v1.1.23): https://swaya.xyz/changelog/
 - Changelog RSS Feed: https://swaya.xyz/rss.xml
 - FAQ & Compatibility Guide: https://swaya.xyz/faq/
 - Privacy Policy: https://swaya.xyz/privacy/
@@ -40,5 +40,5 @@ Swaya is a paid-only Windows application billed discreetly via Patreon (Discreet
 - Support Email: support@swaya.xyz
 - Discord Community: https://discord.gg/pEFY4ZFGKy
 - Reddit Community: https://www.reddit.com/r/SwayaMedia/
-- Windows Installer (v1.1.22, 489 MB, SHA-256 `1F3E05FF98708B6493650596279D0F104BEF4F3602E24D3416FBF4104EA40F51`): https://data.swaya.xyz/swaya-setup.exe
+- Windows Installer (v1.1.23, 489 MB, SHA-256 `6DED7FB6CDCD71D89AE117D723C9DFA348305746377FF5B27AAADA4DD9E06D20`): https://data.swaya.xyz/swaya-setup.exe
 - Supported Languages: English (`https://swaya.xyz/`), Hungarian (`https://swaya.xyz/hu/`), German (`https://swaya.xyz/de/`), French (`https://swaya.xyz/fr/`), Spanish (`https://swaya.xyz/es/`), Italian (`https://swaya.xyz/it/`), Chinese (`https://swaya.xyz/zh/`), Korean (`https://swaya.xyz/ko/`), Russian (`https://swaya.xyz/ru/`), Japanese (`https://swaya.xyz/ja/`), Portuguese (`https://swaya.xyz/pt/`), Polish (`https://swaya.xyz/pl/`).
