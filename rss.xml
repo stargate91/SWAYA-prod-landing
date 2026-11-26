@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.24): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.25): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.24 (Latest)</title>
+      <title>Swaya v1.1.25 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.25</link>
+      <guid isPermaLink="false">swaya-release-1.1.25</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Fixed Patreon activation during the first-time onboarding wizard so clicking Open SWAYA in the browser immediately unlocks the app
+• Added cold-start pending activation handling so swaya:// links are never dropped while the local backend starts up
+• Registered the swaya:// protocol handler in the Windows installer and supported direct fallback activation links</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.24 (Scene Backdrops &amp; Cleanup)</title>
       <link>https://swaya.xyz/changelog/#v1.1.24</link>
       <guid isPermaLink="false">swaya-release-1.1.24</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>

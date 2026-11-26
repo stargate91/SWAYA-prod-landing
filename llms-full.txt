@@ -3,9 +3,9 @@
 > Ditch messy folders. Swaya turns your porn videos and photo galleries into a fast, private Windows 10/11 library with built-in player and instant F10 hide. Organize local videos, photo galleries, and favorite stars in a fast Windows 10/11 desktop app with built-in HD/4K player, 1-click undo sorting, and instant F10 panic hide.
 
 - Official Website: https://swaya.xyz/
-- Latest Release: v1.1.24 (2026-11-25, Windows 64-bit installer, 489 MB)
+- Latest Release: v1.1.25 (2026-11-26, Windows 64-bit installer, 489 MB)
 - Direct Installer URL: https://data.swaya.xyz/swaya-setup.exe
-- Installer SHA-256: `FC0F7CAA66A26441DF84BA305D92E9199DE7C73A307C0874EF021991A4803199`
+- Installer SHA-256: `120D610FDA83DC3887C228DF746A934AF0025962A4B3375A9430A7E83008C4E2`
 - Support Contact: support@swaya.xyz
 - Community (Discord): https://discord.gg/pEFY4ZFGKy
 - Community (Reddit): https://www.reddit.com/r/SwayaMedia/
@@ -125,9 +125,9 @@ Full Terms: https://swaya.xyz/terms/
 - **Recommended**: Windows 10 / 11 (64-bit), Modern quad-core CPU, 8 GB+ RAM, 25+ GB free space (SSD recommended), Dedicated GPU with hardware video decoding.
 
 ## Installer Security & Privacy Verification
-- **Installer File**: `swaya-setup.exe` (NSIS Windows 64-bit installer, v1.1.24, 489 MB / 512981262 bytes)
+- **Installer File**: `swaya-setup.exe` (NSIS Windows 64-bit installer, v1.1.25, 489 MB / 512981915 bytes)
 - **Download URL**: https://data.swaya.xyz/swaya-setup.exe
-- **SHA-256 Checksum**: `FC0F7CAA66A26441DF84BA305D92E9199DE7C73A307C0874EF021991A4803199`
+- **SHA-256 Checksum**: `120D610FDA83DC3887C228DF746A934AF0025962A4B3375A9430A7E83008C4E2`
 - **Local-First Architecture**: Local video files, photo galleries, favorite lists, finish history, and personal stats stay directly on the user's Windows drive and are never uploaded or sold.
 - **When Outbound Requests Occur**: Only for license key/Patreon activation, app updates, streaming scene trailers, fetching online catalog cover images, or using the optional invite-only Friends feature.
 - **Website Tracking**: `swaya.xyz` is a static website with zero analytics trackers and zero advertising cookies; only `localStorage` (`swaya_web_locale`) is used if a user selects a language.
