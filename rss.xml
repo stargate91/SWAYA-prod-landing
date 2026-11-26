@@ -3,12 +3,21 @@
   <channel>
     <title>Swaya Changelog &amp; Releases</title>
     <link>https://swaya.xyz/changelog/</link>
-    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.25): media organizer, link importer, and player updates.</description>
+    <description>Full release history and update notes for Swaya on Windows 10/11 (v1.1.0 to v1.1.26): media organizer, link importer, and player updates.</description>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://swaya.xyz/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Swaya v1.1.25 (Latest)</title>
+      <title>Swaya v1.1.26 (Latest)</title>
+      <link>https://swaya.xyz/changelog/#v1.1.26</link>
+      <guid isPermaLink="false">swaya-release-1.1.26</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>• Added an optional Standalone Videos Folder in Organizer Settings so personal clips and Video-mode imports can be organized into their own folder or drive separately from catalog scenes
+• Added Rescan Library Folders and Re-match Unmatched actions to the Scan Folder split menu in Organizer (plus bulk Re-match on selected items) to re-run matching without re-probing disks
+• Added a dedicated scan_resolve.log diagnostic file recording per-file scan drops and match traces, along with an Open Logs shortcut on the History / Undo page</description>
+    </item>
+    <item>
+      <title>Swaya v1.1.25 (Patreon Activation Fix)</title>
       <link>https://swaya.xyz/changelog/#v1.1.25</link>
       <guid isPermaLink="false">swaya-release-1.1.25</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
